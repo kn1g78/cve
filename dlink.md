@@ -3,7 +3,7 @@
 ## describe
 We can use fofa to find the asset of this device.
 app="D_Link-无线电力猫"
-![](img/image-20250127150542675.png)
+![](image-20250127150542675.png)
 We need to capture the login packet when entering the password, and then intercept the return packet.(Burp:Reponse to the request)
 ```
 HTTP/1.1 200 OK
@@ -39,5 +39,5 @@ Content-Length: 168
 </report>
 ```
 Forward
-![](img/image-20250127150952119.png)
+![](image-20250127150952119.png)
 In the end, I was not authorized to access the backend.
