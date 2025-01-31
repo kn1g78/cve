@@ -40,4 +40,4 @@ Content-Length: 168
 ```
 Forward
 ![](image-20250127150952119.png)
-In the end, I was not authorized to access the backend.
+In the end, I managed to get administrator privileges without authorization
